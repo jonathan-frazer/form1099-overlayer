@@ -1,24 +1,24 @@
 {
-  "BackgroundName": "NewBackground.pdf",
+  "BackgroundName": "Background.pdf",
   "SamplesName": "Samples.pdf",
   "forms": [
     {
       "name": "Form1099MISC",
       "active": true,
       "formSplitting": true,
-      "selectedPage": 10,
-      "selectedSegment": 1
+      "selectedPage": "",
+      "selectedSegment": ""
     },
     {
       "name": "Form1099NEC",
-      "active": false,
+      "active": true,
       "formSplitting": true,
       "selectedPage": "",
       "selectedSegment": ""
     },
     {
       "name": "Form1099K",
-      "active": false,
+      "active": true,
       "formSplitting": false,
       "selectedPage": "",
       "selectedSegment": ""
