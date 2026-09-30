@@ -1,0 +1,27 @@
+{
+  "BackgroundName": "NewBackground.pdf",
+  "SamplesName": "Samples.pdf",
+  "forms": [
+    {
+      "name": "Form1099MISC",
+      "active": true,
+      "formSplitting": true,
+      "selectedPage": 10,
+      "selectedSegment": 1
+    },
+    {
+      "name": "Form1099NEC",
+      "active": false,
+      "formSplitting": true,
+      "selectedPage": "",
+      "selectedSegment": ""
+    },
+    {
+      "name": "Form1099K",
+      "active": false,
+      "formSplitting": false,
+      "selectedPage": "",
+      "selectedSegment": ""
+    }
+  ]
+}
